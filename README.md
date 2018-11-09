@@ -5,7 +5,7 @@
 
 As you have seen from the **Instant Data Science** lesson, programming is a powerful tool for answering questions about data.  It allows us to collect, clean up and format our data and then perform calculations on that data.  
 
-Much of our digital information is in the form of text, for exmaple song lyrics and emails. To clean up and format that text with Python, we need to become familiar with our first type of data, the string.
+Much of our digital information is in the form of text, for example song lyrics and emails. To clean up and format that text with Python, we need to become familiar with our first type of data, the string.
 
 ### Objectives
 * Working with our first data type, strings
